@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "optimflex"]
 	path = optimflex
-	url = https://github.com/cran/optimflex
+	url = https://github.com/eunscho/optimflex
