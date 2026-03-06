@@ -5,3 +5,6 @@
 [submodule "optimflex"]
 	path = optimflex
 	url = https://github.com/eunscho/optimflex
+[submodule "reliacoef"]
+	path = reliacoef
+	url = https://github.com/cran/reliacoef
